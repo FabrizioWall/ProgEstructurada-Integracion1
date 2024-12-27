@@ -1,0 +1,3 @@
+C:/Users/Fabri/Desktop/Programacion/IntegracionContenidos1/Ejercicio1/Codigo/cmake-build-debug/CMakeFiles/Codigo.dir
+C:/Users/Fabri/Desktop/Programacion/IntegracionContenidos1/Ejercicio1/Codigo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabri/Desktop/Programacion/IntegracionContenidos1/Ejercicio1/Codigo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
